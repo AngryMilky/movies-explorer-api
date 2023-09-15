@@ -1,5 +1,5 @@
 const {
-  MONGO_LINK = 'mongodb://localhost:27017/bitfilmsdb',
+  MONGO_LINK = 'mongodb://127.0.0.1:27017/bitfilmsdb',
   PORT = 3000,
   NODE_ENV,
   JWT_SECRET,
