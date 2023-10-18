@@ -1,8 +1,8 @@
 const allowedCors = [
-  'https://diplom.milky.nomoredomainsicu.ru',
-  'http://diplom.milky.nomoredomainsicu.ru',
-  'https://api.diplom.milky.nomoredomainsicu.ru',
-  'http://api.diplom.milky.nomoredomainsicu.ru',
+  'https://diplom.milky.nomoredomainsrocks.ru',
+  'http://diplom.milky.nomoredomainsrocks.ru',
+  'https://api.diplom.milky.nomoredomainsrocks.ru',
+  'http://api.diplom.milky.nomoredomainsrocks.ru',
   'http://localhost:3000',
 ];
 
